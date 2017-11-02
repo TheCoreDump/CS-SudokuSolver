@@ -1,0 +1,16 @@
+D:\Projects\Solver\Solver\bin\Debug\Solver.exe
+D:\Projects\Solver\Solver\bin\Debug\Solver.pdb
+D:\Projects\Solver\Solver\bin\Debug\Solver.Objects.dll
+D:\Projects\Solver\Solver\bin\Debug\Solver.Objects.pdb
+D:\Projects\Solver\Solver\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Solver\Solver\obj\Debug\Solver.exe
+D:\Projects\Solver\Solver\obj\Debug\Solver.pdb
+C:\Dev\Projects\Solver\Solver\obj\Debug\Solver.exe
+C:\Dev\Projects\Solver\Solver\obj\Debug\Solver.pdb
+C:\Dev\Projects\Solver\Solver\bin\Debug\Solver.exe
+C:\Dev\Projects\Solver\Solver\bin\Debug\Solver.pdb
+C:\Dev\Projects\Solver\Solver\bin\Debug\Solver.Objects.dll
+C:\Dev\Projects\Solver\Solver\bin\Debug\Solver.Objects.pdb
+C:\Dev\Projects\Solver\Solver\obj\Debug\Solver.MainForm.resources
+C:\Dev\Projects\Solver\Solver\obj\Debug\Solver.csprojResolveAssemblyReference.cache
+C:\Dev\Projects\Solver\Solver\obj\Debug\Solver.csproj.GenerateResource.Cache

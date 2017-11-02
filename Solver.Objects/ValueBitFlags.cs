@@ -1,0 +1,15 @@
+﻿using System;
+
+public enum Values : int
+{
+	Empty = 0,
+	One = 0x1,
+	Two = 0x2,
+	Three = 0x4,
+	Four = 0x8,
+	Five = 0x10,
+	Six = 0x20,
+	Seven = 0x40,
+	Eight = 0x80,
+	Nine = 0x100
+}
